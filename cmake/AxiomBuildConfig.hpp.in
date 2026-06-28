@@ -1,0 +1,6 @@
+#pragma once
+
+#cmakedefine01 AXIOM_ENABLE_JAVA
+
+#define AXIOM_JAVA_EXECUTABLE "@Java_JAVA_EXECUTABLE@"
+#define AXIOM_JAVA_CLASSPATH "@AXIOM_JAVA_JAR@"
