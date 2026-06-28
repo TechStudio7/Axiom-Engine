@@ -5,6 +5,16 @@
 
 #include "axiom/Scene.hpp"
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+void axiom_platform_info();
+
+#ifdef __cplusplus
+}
+#endif
+
 namespace axiom {
 
 class Engine {
