@@ -1,6 +1,8 @@
 # Axiom Engine
 
-A minimal CMake-based starter project for the Axiom Engine framework.
+![Axiom Engine logo](assets/AxiomLogo.png)
+
+Axiom Engine is a Cocos2d-x 4.0 fork updated to work with Python 3.
 
 This project is open source and licensed under the MIT License.
 
@@ -20,3 +22,11 @@ builds and reports Java scripting as unavailable at runtime.
 ```bash
 ./build/axiom_app
 ```
+
+## Web Games
+
+Axiom can also host lightweight web game experiments with plain HTML, CSS, and
+JavaScript. Open `web/index.html` in a browser to run the starter canvas loop.
+
+The `hx-axiom` Haxe library and Axiom IDE live as separate projects beside this
+engine checkout.

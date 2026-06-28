@@ -1,0 +1,11 @@
+{
+    "name": "hx-axiom",
+    "url": "https://github.com/TechStudio7/Axiom-Engine",
+    "license": "MIT",
+    "tags": ["axiom", "game", "cocos2d-x", "web", "html5"],
+    "description": "Haxe support library for Axiom Engine.",
+    "version": "0.1.0",
+    "classPath": "src",
+    "releasenote": "Initial Axiom Haxe support.",
+    "contributors": ["TechStudio7"]
+}
