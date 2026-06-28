@@ -27,6 +27,3 @@ builds and reports Java scripting as unavailable at runtime.
 
 Axiom can also host lightweight web game experiments with plain HTML, CSS, and
 JavaScript. Open `web/index.html` in a browser to run the starter canvas loop.
-
-The `hx-axiom` Haxe library and Axiom IDE live as separate projects beside this
-engine checkout.
